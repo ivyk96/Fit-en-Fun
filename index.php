@@ -70,22 +70,22 @@
                 <h2 class="page-header">Onze lessen</h2>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
+                <a href="bodyshape.php">Body Shape<img class="img-responsive customer-img" src="img/groep1.png" alt=""></a>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
+                <a href="callanetics.php"><img class="img-responsive customer-img" src="img/groep2.png" alt="">Callanetics</a>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
+                <a href="sportiefwandelen.php">Sportief wandelen<img class="img-responsive customer-img" src="img/groep3.png" alt=""></a>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
+                <a href="highshape.php"><img class="img-responsive customer-img" src="img/groep4.png" alt="">High Shape</a>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
+                <a href="latinfunmoves.php">Latin Fun Moves<img class="img-responsive customer-img" src="img/groep5.png" alt=""></a>
             </div>
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <img class="img-responsive customer-img" src="http://placehold.it/500x300" alt="">
+                <a href="boksdance.php"><img class="img-responsive customer-img" src="img/groep6.png" alt="">Boksdance</a>
             </div>
             </div>
         <hr>
