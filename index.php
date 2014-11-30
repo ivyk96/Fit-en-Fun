@@ -60,33 +60,40 @@
                 <p>Bel gerust voor een gratis proefles of meer informatie: 06-41696046</p>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="img/groep1.png" alt="">
+                <img class="img-responsive" src="img/bodydynamics.png" alt="">
             </div>
         </div>
         <!-- /.row -->
 
-<div class="row">
+		<div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Onze lessen</h2>
+                <h2 class="page-header">Favoriete lessen</h2>
             </div>
+
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="bodyshape.php">Body Shape<img class="img-responsive customer-img" src="img/groep1.png" alt=""></a>
+                <a href="clubjoyyoga.php"><img class="img-responsive customer-img" src="img/yoga.png" alt="">Yoga</a>
             </div>
+
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="callanetics.php"><img class="img-responsive customer-img" src="img/groep2.png" alt="">Callanetics</a>
+                <a href="callanetics.php"><img class="img-responsive customer-img" src="img/callanetics.png" alt="">Callanetics</a>
             </div>
+
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="sportiefwandelen.php">Sportief wandelen<img class="img-responsive customer-img" src="img/groep3.png" alt=""></a>
+                <a href="highshape.php"><img class="img-responsive customer-img" src="img/highshape.png" alt="">High Shape</a>
             </div>
+
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="highshape.php"><img class="img-responsive customer-img" src="img/groep4.png" alt="">High Shape</a>
+                <a href="boksdance.php"><img class="img-responsive customer-img" src="img/boksdance.png" alt="">Boksdance</a>
             </div>
+
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="latinfunmoves.php">Latin Fun Moves<img class="img-responsive customer-img" src="img/groep5.png" alt=""></a>
+                <a href="latinfunmoves.php"><img class="img-responsive customer-img" src="img/latinfunmoves.png" alt="">Latin Fun Moves</a>
             </div>
+
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="boksdance.php"><img class="img-responsive customer-img" src="img/groep6.png" alt="">Boksdance</a>
+                <a href="sportiefwandelen.php"><img class="img-responsive customer-img" src="img/sportiefwandelen.png" alt="">Sportief wandelen</a>
             </div>
+
             </div>
         <hr>
 

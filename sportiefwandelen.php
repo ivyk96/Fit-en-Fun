@@ -60,7 +60,7 @@
                 </p>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="img/groep3.png" alt="">
+                <img class="img-responsive" src="img/sportiefwandelen.png" alt="">
             </div>
         </div>
         <!-- /.row -->

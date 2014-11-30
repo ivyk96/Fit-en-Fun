@@ -57,7 +57,7 @@
                 </p>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="img/groep8.png" alt="">
+                <img class="img-responsive" src="img/boksdance.png" alt="">
             </div>
         </div>
         <!-- /.row -->

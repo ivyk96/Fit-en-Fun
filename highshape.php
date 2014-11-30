@@ -59,7 +59,7 @@
                 </p>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="img/groep1.png" alt="">
+                <img class="img-responsive" src="img/highshape.png" alt="">
             </div>
         </div>
         <!-- /.row -->

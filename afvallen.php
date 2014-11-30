@@ -62,9 +62,9 @@
             </ul>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="img/groep1.png" alt="">2
+                <img class="img-responsive" src="img/weegschaal.png" alt="">
             </div>
-            <div>
+            <div class="col-md-8">
                 <p>Het programma bestaat uit 5 bijeenkomsten.</p>
                 <p>Je krijgt eerst een uitgebreide intake van zo’n 50 minuten waarbij niet alleen je gewicht maar ook je spiermassa, vetpercentage en vochtpercentage wordt gemeten. Verder krijg je uitgebreide informatie over wat nu gezonde voeding is: je ziet toch door de bomen het bos niet meer met al die artikelen over superfoods, wel of geen koolhydraten, ontbijt wel of niet overslaan, wel of geen tussendoortjes, lightproducten, en ga zo maar door!!!</p>
                 <p>Mede op basis van je persoonlijk situatie en voorkeur wordt er een op maat gesneden voedingsplan gemaakt.</p>
