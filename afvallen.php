@@ -52,7 +52,7 @@
                 <h2 class="page-header">Afvallen</h2>
             </div>
             <div class="col-md-6">
-            <h4>Lekker terug van vakantie? Maar zit je broek nu iets strakker dan voorheen? Weg met die vakantiekilo's!</h4>
+            
             <p>Vaak lukt dit niet alleen. Daarom heb ik een programma ontwikkeld waarmee jij je doel wel zult bereiken.</p>
             <ul>
                 <li>Doordat je tips meekrijgt die zijn afgestemd op jouw eetgewoonte heb je niet het gevoel dat je op dieet bent, maar wordt het meer een nieuwe eetgewoonte. Het afvallen gaat je dus gemakkelijker af en het effect zal blijvend zijn.</li>
@@ -64,14 +64,14 @@
             <div class="col-md-6">
                 <img class="img-responsive" src="img/weegschaal.png" alt="">
             </div>
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <p>Het programma bestaat uit 5 bijeenkomsten.</p>
                 <p>Je krijgt eerst een uitgebreide intake van zo’n 50 minuten waarbij niet alleen je gewicht maar ook je spiermassa, vetpercentage en vochtpercentage wordt gemeten. Verder krijg je uitgebreide informatie over wat nu gezonde voeding is: je ziet toch door de bomen het bos niet meer met al die artikelen over superfoods, wel of geen koolhydraten, ontbijt wel of niet overslaan, wel of geen tussendoortjes, lightproducten, en ga zo maar door!!!</p>
                 <p>Mede op basis van je persoonlijk situatie en voorkeur wordt er een op maat gesneden voedingsplan gemaakt.</p>
                 <p>In de daar op volgende 4 bijeenkomsten van zo’n 25 minuten word je steeds gewogen, verfijnen we je eetplan en krijg je handige tips mee waardoor je gezonde eetgewoonte ook leuk blijft en je dit dus blijft volhouden!</p>
                 <p>DUS:</p>
                 <p>Twijfel niet langer en geef je op! Bel voor een afspraak (078- 6413473 / 06-41696046). Je kunt zelf bepalen op welke dag en welk tijdstip je komt. Natuurlijk kun je ook samen met iemand komen (dat stimuleert wellicht NOG meer om jullie doel te bereiken!). De bijeenkomsten duren dan iets langer, maar de kosten zijn ook lager (€ 85,-- per persoon).</p>
-                <p>Graag tot gauw, groeten Jolanda</p>
+                
             </div>
         </div>
         <!-- /.row -->
