@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Fit en Fun - Body Dynamics</title>
+	<title>Fit en Fun - Indoor Bootcamp</title>
     <?php include_once('includes/head.html') ?>
 </head>
 
@@ -49,16 +49,18 @@
         <!-- Features Section -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Body Dynamics</h2>
+                <h2 class="page-header">Indoor Bootcamp</h2>
             </div>
             <div class="col-md-6">
                 <p>
-                    Pittige spierverstevigende les, waarbij je door eenvoudige maar dynamische oefeningen, eventueel met behulp van gewichtjes en dynaband,
-                    verschillende spiergroepen tegelijkertijd traint. Je verstevigt niet alleen alleen je spieren, maar ook de vetverbranding wordt aangesproken.
+                    Het is een back-to-basic training, dat wil zeggen dat je grotendeels gebruik maakt van je eigen lichaamsgewicht om te verbeteren in kracht en lenigheid, maar ook je uithoudingsvermogen gaat met sprongen vooruit.
+                </p>
+                <p>
+                    Iedereen (vrouw EN man!) kan op zijn eigen niveau meedoen, dus of je nu geoefend bent of een beginnende sporter zonder conditie, dat maakt niet uit. Dat dit “indoor” (dus in de zaal) is, is voor een hoop mensen prettig, zeker ’s winters! 
                 </p>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="img/bodydynamics.png" alt="">
+                <img class="img-responsive" src="img/indoorbootcamp.png" alt="">
             </div>
         </div>
         <!-- /.row -->

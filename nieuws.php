@@ -53,8 +53,6 @@
             </div>
             
             <div class="col-md-12">
-                
-
                 <p>Onze jaarlijkse WINTERWANDELING!</p>
 
                 <p>
@@ -87,13 +85,76 @@
                     en je inschrijven via www.papendrecht.rotarysantarun.nl . De opbrengst is uiteraard weer 
                     voor het goede doel: de kinderen van de Voedselbank!
                 </p>
+                <p>
+                    In de kerstvakantie (maandag 22 december t/m vrijdag 2 januari) is er een aangepast rooster:
+                </p>
+                <p>
+                    Maandag 22 december is er gewoon les, dus:
+                </p>
+
             </div>
 
-            
+            <div class="col-md-8">
+                <table class="table table-bordered">
+                    <tr>
+                        <td>09:00</td>
+                        <td>Callanetics</td>
+                        <td><a href="locaties.php">De Donck</a></td>
+                    </tr>
+                    <tr>
+                        <td>10:00</td>
+                        <td>High Shape</td>
+                        <td><a href="locaties.php">De Donck</a></td>
+                    </tr>
+                </table>
+            </div>
 
+            <div class="col-md-12">
+                <p>
+                    Dinsdag 23 december (!!!!) in plaats van donderdag, 
+                </p>
+            </div>
             
+            
+            <div class="col-md-8">
+                <table class="table table-bordered">
+                    <tr>
+                        <td>19:00</td>
+                        <td>ClubJoy Yoga</td>
+                        <td>Stellingmolen</td>
+                    </tr>
+                    <tr>
+                        <td>20:00</td>
+                        <td>Indoor Bootcamp</td>
+                        <td>Stellingmolen</td>
+                    </tr>
+                </table>
+            </div> 
 
-            
+            <div class="col-md-12">
+                <p>
+                    En dan is de eerstvolgende les pas weer op maandag 5 januari!!! Komt dus allen hè, op 
+                    bovengenoemde dagen: want wat er al af is, hoeft er niet meer af in januari, haha!!
+                </p>
+                <p>
+                    Vanaf komende week zijn de avondlessen op woensdag veranderd:
+                </p>
+            </div>
+
+            <div class="col-md-8">
+                <table class="table table-bordered">
+                    <tr>
+                        <td>19:00</td>
+                        <td>ClubJoy Yoga</td>
+                        <td><a href="locaties.php">De Willem</a></td>
+                    </tr>
+                    <tr>
+                        <td>20:00</td>
+                        <td>Indoor Bootcamp</td>
+                        <td><a href="locaties.php">De Willem</a></td>
+                    </tr>
+                </table>
+            </div>
         </div>
         <!-- /.row -->
 

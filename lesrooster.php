@@ -89,12 +89,12 @@
             	</tr>
             	<tr>
             		<td>19:00 - 20:00</td>
-                    <td><a href="bodydynamics.php">Body Dynamics</a></td>
+                    <td><a href="clubjoyyoga.php">ClubJoy Yoga</a></td>
             		<td><a href="locaties.php">De Willem</a></td>
             	</tr>
             	<tr>
             		<td>20:00 - 21:00</td>
-                    <td><a href="latinfunmoves.php">Latin Fun Moves</a></td>
+                    <td><a href="indoorbootcamp.php">Indoor Bootcamp</a></td>
             		<td><a href="locaties.php">De Willem</a></td>
             	</tr>
 

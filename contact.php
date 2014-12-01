@@ -51,14 +51,11 @@
             <div class="col-lg-12">
                 <h2 class="page-header">Contact</h2>
             </div>
-            <div class="col-md-6">
-            <h4>Fit & Fun Aerobics</h4>
-            <p>Telefoon - 078 6413473</p>
-            <p>E-mail - info@fitenfun.eu</p>
-            </div>
-            <div class="col-md-6">
-                <p>Als u zich wilt inschrijven en op uw gemak het inschrijfformulier wilt invullen, dan kunt u het hier downloaden.</p>
-                
+            <div class="col-md-12">
+                <h4>Fit & Fun Aerobics</h4>
+                <p>Mobiel - 0641696046</p>
+                <p>Huis telefoon - 078 6413473</p>
+                <p>E-mail - info@fitenfun.eu</p>
             </div>
         </div>
         <!-- /.row -->

@@ -54,10 +54,20 @@
             <h4>Strippenkaart</h4>
             <p>Er wordt gewerkt met strippenkaarten van 10 strippen voor € 60,-  20 strippen voor € 95,- en 30 strippen voor €120,-</p>
             <p>We rekenen géén inschrijfgeld of administratiekosten.</p>
+            <p>
+                De kaarten van 10 en 20 ritten blijven onbeperkt geldig, maar die van 30 ritten heeft vanaf 1 december weer een geldigheidsduur van 3 maanden.
+                De vakanties komen nog steeds voor mijn rekening, dus mocht er een vakantie binnen die 3 maanden vallen, 
+                wordt de geldigheidsduur van de kaart verlengd met de duur van de vakantie. Als er omstandigheden zijn waardoor je niet kunt sporten, 
+                laat het dan even weten, dan word je uiteraard ook niet aan deze geldigheidsduur gehouden.
+                Vanaf komende week zullen de strippenkaarten niet meer persoonsgebonden zijn. Zeker ook omdat de yoga en de bootcamp 
+                lessen zijn die ook voor andere gezinsleden geschikte lessen zijn om te volgen. Je kan dan dus met het hele gezin op één kaart. 
+                Je naam komt nog wel gewoon op de kaart, maar dit om onduidelijkheid te voorkomen als je je kaart een keer in de kleedkamer of zaal laat liggen.....
+            </p>
             <p>Zorgt u zelf a.u.b. voor een handdoek, matje en eventueel gewichtjes.</p>
             <p>Een dynaband kunt u bij ons aanschaffen voor € 5,00.</p>
             <p>Zoals jullie al gemerkt hebben, is de vervaldatum op de strippenkaart verdwenen. Dat betekent dat je kaart onbeperkt geldig is, en dat het dus goedkoper is om een “grotere kaart” te kopen. Je sport dan al voor € 4,00 per keer.</p>
             <p>Wilt u er s.v.p. rekening mee houden dat betalen alleen contant kan.</p>
+            
         </div>
         <!-- /.row -->
 

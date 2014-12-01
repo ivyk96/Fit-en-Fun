@@ -87,7 +87,7 @@
             </div>
 
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="latinfunmoves.php"><img class="img-responsive customer-img" src="img/latinfunmoves.png" alt="">Latin Fun Moves</a>
+                <a href="indoorbootcamp.php"><img class="img-responsive customer-img" src="img/indoorbootcamp.png" alt="">Indoor Bootcamp</a>
             </div>
 
             <div class="col-md-2 col-sm-4 col-xs-6">
