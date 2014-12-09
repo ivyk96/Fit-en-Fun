@@ -71,30 +71,30 @@
             </div>
 
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="clubjoyyoga.php"><img class="img-responsive customer-img" src="img/yoga.png" alt="">Yoga</a>
+                <a href="clubjoyyoga.php">Yoga<img class="img-responsive customer-img" src="img/yoga.png" alt=""></a>
             </div>
 
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="callanetics.php"><img class="img-responsive customer-img" src="img/callanetics.png" alt="">Callanetics</a>
+                <a href="callanetics.php">Callanetics<img class="img-responsive customer-img" src="img/callanetics.png" alt=""></a>
             </div>
 
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="highshape.php"><img class="img-responsive customer-img" src="img/highshape.png" alt="">High Shape</a>
+                <a href="highshape.php">High Shape<img class="img-responsive customer-img" src="img/highshape.png" alt=""></a>
             </div>
 
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="boksdance.php"><img class="img-responsive customer-img" src="img/boksdance.png" alt="">Boksdance</a>
+                <a href="boksdance.php">Boksdance<img class="img-responsive customer-img" src="img/boksdance.png" alt=""></a>
             </div>
 
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="indoorbootcamp.php"><img class="img-responsive customer-img" src="img/indoorbootcamp.png" alt="">Indoor Bootcamp</a>
+                <a href="indoorbootcamp.php">Indoor Bootcamp<img class="img-responsive customer-img" src="img/indoorbootcamp.png" alt=""></a>
             </div>
 
             <div class="col-md-2 col-sm-4 col-xs-6">
-                <a href="sportiefwandelen.php"><img class="img-responsive customer-img" src="img/sportiefwandelen.png" alt="">Sportief wandelen</a>
+                <a href="sportiefwandelen.php">Sportief wandelen<img class="img-responsive customer-img" src="img/sportiefwandelen.png" alt=""></a>
             </div>
 
-            </div>
+        </div>
         <hr>
 
         <!-- Footer -->

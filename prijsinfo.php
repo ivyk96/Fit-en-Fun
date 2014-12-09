@@ -65,7 +65,6 @@
             </p>
             <p>Zorgt u zelf a.u.b. voor een handdoek, matje en eventueel gewichtjes.</p>
             <p>Een dynaband kunt u bij ons aanschaffen voor € 5,00.</p>
-            <p>Zoals jullie al gemerkt hebben, is de vervaldatum op de strippenkaart verdwenen. Dat betekent dat je kaart onbeperkt geldig is, en dat het dus goedkoper is om een “grotere kaart” te kopen. Je sport dan al voor € 4,00 per keer.</p>
             <p>Wilt u er s.v.p. rekening mee houden dat betalen alleen contant kan.</p>
             
         </div>
