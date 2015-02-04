@@ -49,7 +49,7 @@
         <!-- Features Section -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Lesrooster</h2>
+                <h2 class="page-header footertekst">Lesrooster</h2>
             </div>
             <table class="table table-bordered">
             	<th class="info">Maandag</th>

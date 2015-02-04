@@ -49,7 +49,7 @@
         <!-- Features Section -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Fit en Fun Aerobics</h2>
+                <h2 class="page-header footertekst">Fit en Fun Aerobics</h2>
             </div>
             <div class="col-md-6">
                 <p>Je wilt gezellig sporten in groepsverband, maar geen gebruik maken van snelbruiners, een sauna of andere kostenverhogende faciliteiten. Dan wil je daar toch ook niet voor betalen?</p>

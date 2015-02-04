@@ -49,7 +49,7 @@
         <!-- Features Section -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Prijsinfo</h2>
+                <h2 class="page-header footertekst">Prijsinfo</h2>
             </div>
             <h4>Strippenkaart</h4>
             <p>Er wordt gewerkt met strippenkaarten van 10 strippen voor € 60,-  20 strippen voor € 95,- en 30 strippen voor €120,-</p>
@@ -63,9 +63,9 @@
                 lessen zijn die ook voor andere gezinsleden geschikte lessen zijn om te volgen. Je kan dan dus met het hele gezin op één kaart. 
                 Je naam komt nog wel gewoon op de kaart, maar dit om onduidelijkheid te voorkomen als je je kaart een keer in de kleedkamer of zaal laat liggen.....
             </p>
-            <p>Zorgt u zelf a.u.b. voor een handdoek, matje en eventueel gewichtjes.</p>
-            <p>Een dynaband kunt u bij ons aanschaffen voor € 5,00.</p>
-            <p>Wilt u er s.v.p. rekening mee houden dat betalen alleen contant kan.</p>
+            <p>Zorg zelf a.u.b. voor een handdoek, matje en eventueel gewichtjes.</p>
+            <p>Een dynaband kun je bij ons aanschaffen voor € 5,00.</p>
+            <p>Wil je er s.v.p. rekening mee houden dat betalen alleen contant kan.</p>
             
         </div>
         <!-- /.row -->

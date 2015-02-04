@@ -4,6 +4,18 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+.navbar-inverse .navbar-nav>li>a {
+    color: #FF47A3;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #FF47A3;
+}
+
+.footertekst {
+    color: #FF47A3;
+}
+
 /* Global Styles */
 
 html,

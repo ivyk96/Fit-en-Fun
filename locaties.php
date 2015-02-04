@@ -49,7 +49,7 @@
         <!-- Features Section -->
         <div class="row">
         <div class="col-lg-12">
-                <h2 class="page-header">Locaties</h2>
+                <h2 class="page-header footertekst">Locaties</h2>
             </div>
             <div class="col-md-6">
                 <p>Sportcentrum Papendrecht</p>
