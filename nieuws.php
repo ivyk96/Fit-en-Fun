@@ -54,9 +54,6 @@
             
             <div class="col-md-12">
                 <p>
-                    <b>Eenmalige leswisseling</b><br>Omdat de docenten van De Willem op woensdag 28 januari zelf de gymzalen nodig hebben, is er deze avond geen les. Deze lessen worden dan gegeven op donderdag 29 januari (ook gewoon in De Willem), dus: 19.00 uur Yoga en 20.00 uur Indoor Bootcamp.
-                </p>
-                <p>
                     <b>Leuke februari – aktie!!</b><br>
 
 Voor de hele maand februari heb ik een aktie bedacht om nog meer mensen te laten genieten van de leuke, diverse en gevarieerde lessen van Fit & Fun. Jij als bestaand lid van Fit & Fun kan hier je voordeel mee doen:

@@ -58,12 +58,12 @@
             	<tr>
             		<td>09:00 - 10:00</td>
                     <td><a href="callanetics.php">Callanetics</a></td>
-            		<td><a href="locaties.php">De Donck</a></td>
+            		<td><a href="locaties.php">Sportcentrum Papendrecht</a></td>
             	</tr>
             	<tr>
             		<td>10:00 - 11:00</td>
                     <td><a href="highshape.php">High Shape</a></td>
-            		<td><a href="locaties.php">De Donck</a></td>
+            		<td><a href="locaties.php">Sportcentrum Papendrecht</a></td>
             	</tr>
             	<tr>
             		<td>19:00 - 20:00</td>
@@ -78,14 +78,14 @@
 
             	<th class="info">Woensdag</th>
             	<tr>
-            		<td>09:00 - 10:00</td>
+            		<td>08:45 - 09:45</td>
                     <td><a href="clubjoyyoga.php">ClubJoy Yoga</a></td>
-            		<td><a href="locaties.php">De Donck</a></td>
+            		<td><a href="locaties.php">Sportcentrum Papendrecht</a></td>
             	</tr>
             	<tr>
-            		<td>10:00 - 11:00</td>
+            		<td>09:45 - 10:45</td>
                     <td><a href="highshape.php">High Shape</a></td>
-            		<td><a href="locaties.php">De Donck</a></td>
+            		<td><a href="locaties.php">Sportcentrum Papendrecht</a></td>
             	</tr>
             	<tr>
             		<td>19:00 - 20:00</td>
