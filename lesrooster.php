@@ -100,7 +100,7 @@
 
             	<th class="info">Donderdag</th>
             	<tr>
-            		<td>19:00 - 20:00</td>
+            		<td>19:30 - 20:30</td>
                     <td><a href="clubjoyyoga.php">ClubJoy Yoga</a></td>
             		<td><a href="locaties.php">De Willem</a></td>
             	</tr>

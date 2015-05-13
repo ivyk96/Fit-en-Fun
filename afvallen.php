@@ -58,7 +58,7 @@
                 <li>Doordat je tips meekrijgt die zijn afgestemd op jouw eetgewoonte heb je niet het gevoel dat je op dieet bent, maar wordt het meer een nieuwe eetgewoonte. Het afvallen gaat je dus gemakkelijker af en het effect zal blijvend zijn.</li>
                 <li>Je krijgt uitgebreide informatie over gezonde voeding en bewegen.</li>
                 <li>Je hebt “een stok achter de deur” want je moet om de zoveel tijd toch weer op de weegschaal bij mij.</li>
-                <li>Het lijkt duurder (de kosten zijn € 99,--) dan wanneer je niet komt, maar realiseer je eens wat je aan kosten bespaard omdat je geen overbodige dingen meer in huis haalt en je je gezonder en energieker voelt!</li>
+                <li>Het lijkt duurder (de kosten zijn € 95,--) dan wanneer je niet komt, maar realiseer je eens wat je aan kosten bespaard omdat je geen overbodige dingen meer in huis haalt en je je gezonder en energieker voelt!</li>
             </ul>
             </div>
             <div class="col-md-6">

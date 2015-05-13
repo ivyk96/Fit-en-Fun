@@ -54,16 +54,8 @@
             
             <div class="col-md-12">
                 <p>
-                    <b>Leuke februari – aktie!!</b><br>
-
-Voor de hele maand februari heb ik een aktie bedacht om nog meer mensen te laten genieten van de leuke, diverse en gevarieerde lessen van Fit & Fun. Jij als bestaand lid van Fit & Fun kan hier je voordeel mee doen:
-
-Neem in februari iemand mee (die nog geen lid is) voor een gratis proefles. Als deze persoon dan vervolgens een strippenkaart koopt, krijg jij een les gratis! Zo snijdt het mes aan 2 kanten (of eigenlijk aan 3, haha).
-                </p>
-                <p>
                     <b>Indoor Bootcamp</b><br>
-
-Kom ook een keer deze leuke, pittige, maar goed te doseren les meedoen. Je kunt het zo zwaar maken als je zelf wilt, dus ook voor de beginnende sporter geschikt. Er komen al steeds meer heren bij (ook echtparen!), maar ook jongeren zijn natuurlijk van harte welkom. Het hele gezin of de familie mag op 1 kaart! Woensdagavond in de Willem om 20.00 uur. Enne....de les duurt “maar” 45 minuten!
+                    Kom ook een keer deze leuke, pittige, maar goed te doseren les meedoen. Je kunt het zo zwaar maken als je zelf wilt, dus ook voor de beginnende sporter geschikt. Er komen al steeds meer heren bij (ook echtparen!), maar ook jongeren zijn natuurlijk van harte welkom. Het hele gezin of de familie mag op 1 kaart! Woensdagavond in de Willem om 20.00 uur. Enne....de les duurt “maar” 45 minuten!
                 </p>
 
             
