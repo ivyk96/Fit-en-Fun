@@ -98,19 +98,17 @@
             		<td><a href="locaties.php">De Willem</a></td>
             	</tr>
 
-            	<th class="info">Donderdag</th>
-            	<tr>
-            		<td>19:30 - 20:30</td>
-                    <td><a href="clubjoyyoga.php">ClubJoy Yoga</a></td>
-            		<td><a href="locaties.php">De Willem</a></td>
-            	</tr>
-
             	<th class="info">Vrijdag</th>
             	<tr>
             		<td>09:00 - 10:00</td>
                     <td><a href="sportiefwandelen.php">Sportief wandelen</a></td>
             		<td><a href="locaties.php">De Kooy</a></td>
             	</tr>
+                <tr>
+                    <td>11:00 - 12:00</td>
+                    <td><a href="">Circuittraining</a></td>
+                    <td><a href="locaties.php">Top Spincentre Zwijndrecht</a></td>
+                </tr>
             </table>
         </div>
         <!-- /.row -->
