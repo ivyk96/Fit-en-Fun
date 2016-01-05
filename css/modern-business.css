@@ -3,7 +3,10 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
-
+.fotoalbum-thumbnail {
+max-width: 200px;
+max-height: 200px;
+}
 .navbar-inverse .navbar-nav>li>a {
     color: #FF47A3;
 }

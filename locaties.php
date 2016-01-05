@@ -87,6 +87,18 @@
                 </div>
             <!-- /Map -->
             </div>
+            <div class="col-md-6">
+                <p>Top Spincentre</p>
+                <p>Winkelhaak 11</p>
+                <p>3335KG Zwijndrecht</p>
+            </div>
+            <div class="col-md-6">
+            <!-- Map -->
+                <div id="contact" class="map">
+                    <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2465.724768549592!2d4.6129446000000005!3d51.8294581!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c42e6147f3651f%3A0x56e0c8f3ac8c461f!2sWinkelhaak+11%2C+3335+KG+Zwijndrecht!5e0!3m2!1sen!2snl!4v1440057215954"></iframe>
+                </div>
+            <!-- /Map -->
+            </div>       
         </div>
         <!-- /.row -->
         <hr>
