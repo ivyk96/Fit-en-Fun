@@ -50,19 +50,6 @@
         <div class="row">
         <div class="col-lg-12">
                 <h2 class="page-header footertekst">Locaties</h2>
-            </div>
-            <div class="col-md-6">
-                <p>Sportcentrum Papendrecht</p>
-                <p>Lange Tiendweg</p>
-                <p>3353 CW Papendrecht</p>
-            </div>
-            <div class="col-md-6">
-                <!-- Map -->
-                <div id="contact" class="map">
-                    <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4931.10684489868!2d4.696682978942872!3d51.83258789093215!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x2114da123ac26952!2sDe+Donck!5e0!3m2!1sen!2sus!4v1424283661764"></iframe>
-                </div>
-            <!-- /Map -->
-            </div>
             <div class="col-md-6">
                 <p>De Willem</p>
                 <p>Van der Palmstraat 2</p>

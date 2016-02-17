@@ -55,13 +55,10 @@
             <p>Er wordt gewerkt met strippenkaarten van 10 strippen voor € 60,-  20 strippen voor € 95,- en 30 strippen voor €120,-</p>
             <p>We rekenen géén inschrijfgeld of administratiekosten.</p>
             <p>
-                De kaarten van 10 en 20 ritten blijven onbeperkt geldig, maar die van 30 ritten heeft vanaf 1 december weer een geldigheidsduur van 3 maanden.
-                De vakanties komen nog steeds voor mijn rekening, dus mocht er een vakantie binnen die 3 maanden vallen, 
-                wordt de geldigheidsduur van de kaart verlengd met de duur van de vakantie. Als er omstandigheden zijn waardoor je niet kunt sporten, 
-                laat het dan even weten, dan word je uiteraard ook niet aan deze geldigheidsduur gehouden.
-                Vanaf komende week zullen de strippenkaarten niet meer persoonsgebonden zijn. Zeker ook omdat de yoga en de bootcamp 
-                lessen zijn die ook voor andere gezinsleden geschikte lessen zijn om te volgen. Je kan dan dus met het hele gezin op één kaart. 
-                Je naam komt nog wel gewoon op de kaart, maar dit om onduidelijkheid te voorkomen als je je kaart een keer in de kleedkamer of zaal laat liggen.....
+                De kaarten van 10 en 20 ritten zijn onbeperkt geldig, maar die van 30 ritten heeft een geldigheidsduur van 3 maanden.
+                De vakanties komen voor onze rekening, dus mocht er een vakantie binnen die 3 maanden vallen, wordt de geldigheidsduur van de kaart verlengd met de duur van de vakantie.
+                Als er omstandigheden zijn waardoor je niet kunt sporten, laat het dan even weten, dan word je uiteraard ook niet aan deze geldigheidsduur gehouden.
+                De strippenkaarten zijn niet persoonsgebonden. Zeker ook omdat de yoga en de bootcamp lessen zijn die ook voor andere gezinsleden geschikte lessen zijn om te volgen. Je kan dan dus met het hele gezin op één kaart. Je naam komt nog wel gewoon op de kaart, maar dit om onduidelijkheid te voorkomen als je je kaart een keer in de kleedkamer of zaal laat liggen.....
             </p>
             <p>Zorg zelf a.u.b. voor een handdoek, matje en eventueel gewichtjes.</p>
             <p>Een dynaband kun je bij ons aanschaffen voor € 5,00.</p>
