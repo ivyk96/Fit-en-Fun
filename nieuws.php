@@ -54,24 +54,12 @@
             <div class="col-md-12">
                 <div class="col-md-8">
                 <p>
-                    Zondag 14 februari is het weer Valentijns dag. Het leek mij leuk om iets te organiseren dat jullie niks kost, maar juist iets oplevert, dus:
-                </p>
-                <p>
-                    In de week voorafgaand aan Valentijnsdag (dus van maandag 8 februari t/m vrijdag 12 februari) kun je een vriend of vriendin meenemen, die dan een (uiteraard gratis) proefles volgt. Jullie ontvangen dan alle twee een hartje.
-                </p>
-                <p>
-                    Bij aanschaf van je volgende kaart, en je vriend(in) bij het kopen van haar/zijn kaart, lever je deze in en ontvang je € 5 korting!!
-                    Dus doe mee en haal die vriend of vriendin over om lekker te komen sporten en………..word er zelf ook beter van!!
-                </p>
-
-                <p>
-                    Ik hoop dat alles zo duidelijk is en dan zie ik jullie graag zo snel mogelijk weer!
+                    Er is even geen nieuws.
                 </p>
                 </div>
             	<div class="col-md-4">
                     <img class="img-responsive" src="img/hartrennen.jpg" alt="">
                 </div>
-
 			</div>
         </div>
         <!-- /.row -->

@@ -109,6 +109,12 @@
                     <td><a href="">Circuittraining</a></td>
                     <td><a href="locaties.php">Top Spincentre Zwijndrecht</a></td>
                 </tr>
+                <th class="info">Zondag</th>
+                <tr>
+                    <td>09:30 - 13:00</td>
+                    <td><a href="sportiefwandelen.php">ClubJoy Yoga</a></td>
+                    <td><a href="locaties.php">Sportcentrum Papendrecht</a></td>
+                </tr>
             </table>
         </div>
         <!-- /.row -->
