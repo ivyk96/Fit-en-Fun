@@ -86,7 +86,6 @@
                 </div>
             <!-- /Map -->
             </div>
-            </div>
             <div class="col-md-6">
                 <p>Sportcentrum Papendrecht</p>
                 <p>Lange Tiendweg</p>
